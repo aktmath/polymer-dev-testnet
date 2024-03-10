@@ -92,6 +92,7 @@ You should be good after running just do-it code. Codes will run and it will say
 Take ss and send it to their discord. 
 
 [Discord]([https://pages.github.com/](https://discord.com/invite/hvMQp4qcM6)https://discord.com/invite/hvMQp4qcM6)
+
 send your proof to this channel :  [Proof](https://discord.com/channels/839903468750635039/1213267408370794506)
 
 
