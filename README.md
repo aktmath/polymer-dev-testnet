@@ -93,3 +93,13 @@ Take ss and send it to their discord.
 
 [Discord]([https://pages.github.com/](https://discord.com/invite/hvMQp4qcM6)https://discord.com/invite/hvMQp4qcM6)
 send your proof to this channel :  [Proof](https://discord.com/channels/839903468750635039/1213267408370794506)
+
+
+## If you get error : 
+Use this codes
+````
+npx hardhat clean
+just do-it 
+````
+
+till you see you are done.
