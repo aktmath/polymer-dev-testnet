@@ -96,7 +96,7 @@ send your proof to this channel :  [Proof](https://discord.com/channels/83990346
 
 
 ## If you get error : 
-Use this codes
+First of all make sure you have eth both sepolia chains. If you have testnet tokens then use this codes
 ````
 npx hardhat clean
 just do-it 
